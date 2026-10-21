@@ -1,0 +1,6 @@
+{
+  "name": "Varma Grand Family Restaurant",
+  "description": "Authentic South Indian flavours, family dining, delicious dosas, thali meals, and welcoming hospitality at Varma Grand Family Restaurant (వర్మ గ్రాండ్ ఫ్యామిలీ రెస్టారెంట్).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

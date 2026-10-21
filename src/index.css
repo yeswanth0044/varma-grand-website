@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+}
+
+.font-display {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+.font-telugu {
+  font-family: 'Noto Sans Telugu', 'Plus Jakarta Sans', system-ui, sans-serif;
+}
+
+/* Custom scrollbar styling for comfortable menu navigation */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f7f3ed;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d8c8b8;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #781826;
+}
